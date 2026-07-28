@@ -16,8 +16,6 @@
 ### 🚀 Sobre mim
 
 - 🎓 Cursando **Sistemas de Informação** na **UNIMONTES** (7° período)
-- 🔄 Também cursando **Engenharia da Computação** na **AFYA UNIFIPMoc** (em transição para Sistemas de Informação)
-- 💼 Estagiário no **Departamento de Ciências Econômicas — UNIMONTES**
 - 💻 Experiência prática em **desenvolvimento web e mobile**, além de **suporte técnico**
 - 🌱 Interesse em **tecnologia, dados e automação**
 - 🗣️ Inglês avançado (Wizard — Proficiency) | Espanhol básico
