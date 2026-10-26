@@ -1,89 +1,65 @@
+# Olá, eu sou o Victor Seixas 👋
 
-<h1 align="center">Saudações Programadores, me chamo Victor Seixas!</h1>
+**Desenvolvedor Front-end / Full-Stack Jr · UX/UI**
+Estudante de Sistemas de Informação na Unimontes (formatura em 2027) · Montes Claros, MG 🇧🇷
 
-<h3 align="center">Estudante de Sistemas de Informação | Desenvolvedor Web/Mobile</h3>
+Gosto de transformar ideias em interfaces claras, rápidas e bem desenhadas, e de fazer o código por trás funcionar de ponta a ponta. Estou em busca de **estágio ou vaga júnior em front-end ou full-stack**.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/victor-seixas-alves" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:vseixasalves@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/COLOQUE-SEU-LINK-CORRETO)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vseixasalves@gmail.com)
 
 ---
 
-### 🚀 Sobre mim
+## 🚀 Projetos em destaque
 
-- 🎓 Cursando **Sistemas de Informação** na **UNIMONTES** (7° período)
-- 💻 Experiência prática em **desenvolvimento web e mobile**, além de **suporte técnico**
-- 🌱 Interesse em **tecnologia, dados e automação**
-- 🗣️ Inglês avançado (Wizard — Proficiency) | Espanhol básico
-- 📌 Disponível para novas oportunidades
+### ⚽ [Site Fan-Made do Fluminense](https://github.com/victorseixasalves/Site_FanMade_Fluminense)
+Portal completo de um clube de futebol com notícias, elenco e loja oficial. Front-end em HTML, CSS e JavaScript; back-end em PHP com MySQL.
+`HTML` `CSS` `JavaScript` `PHP` `MySQL`
+🔗 Demo: _[adicione o link aqui]_
 
----
+### 🐾 [PetCare IA](https://github.com/victorseixasalves/PetCare_IA)
+App mobile que permite a tutores de animais fazerem uma triagem veterinária com apoio de inteligência artificial. Projeto final da disciplina de IA para Desenvolvimento Mobile.
+`React Native` `TypeScript` `Expo` `IA`
+🎥 Vídeo/demo: _[adicione o link aqui]_
 
-### 🛠️ Tecnologias e Ferramentas
+### ✨ [Portfólio de Edição de Vídeo](https://github.com/victorseixasalves/portifolioedicao-victorseixas)
+Site de página única com identidade visual futurista: glassmorphism, gradientes iridescentes animados e tipografia tech, criado para apresentar meus trabalhos de edição e produção de conteúdo.
+`HTML` `CSS` `Animações`
+🔗 Demo: _[adicione o link aqui]_
 
-**Linguagens**
-
-<p>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-</p>
-
-**Banco de Dados**
-
-<p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
-</p>
-
-**Ferramentas e Plataformas**
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/NetBeans-1B6AC6?style=flat-square&logo=apache-netbeans-ide&logoColor=white" />
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white" />
-<img src="https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white" />
-<img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />
-</p>
-
-**Design e Produtividade**
-
-<p>
-<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" />
-<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
-<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white" />
-</p>
+### 💰 [Resumo de Saldo — ExpoNav](https://github.com/victorseixasalves/Resumo_de_Saldo-ExpoNav)
+App mobile em TypeScript com Expo e navegação entre telas. _[escreva 1 ou 2 frases sobre o que ele faz]_
+`TypeScript` `Expo`
 
 ---
 
-### 🎓 Formação Acadêmica
+## 🛠️ Tecnologias
 
-- **Bacharelado em Sistemas de Informação** — UNIMONTES (2023 – presente, 7° período)
-- **Bacharelado em Engenharia da Computação** *(transição para Sistemas de Informação)* — AFYA UNIFIPMoc (1° período)
-- **Ensino Médio Completo** — Concluído em 2022
-- **Inglês "Proficiency"** — Wizard (nível avançado)
+**Front-end:** HTML5 · CSS3 · JavaScript · TypeScript · React Native
+**Back-end:** PHP · Laravel · Python
+**Banco de dados:** MySQL
+**Ferramentas:** Git · GitHub · VS Code · Expo · WordPress
 
 ---
 
-### 📫 Contato
+## 💼 Experiência
 
-<p align="center">
-📧 vseixasalves@gmail.com
-</p>
+**Estagiário, Departamento de Ciências Econômicas, Unimontes** (dez/2024 – out/2026)
+Desenvolvi e mantive o [site oficial do curso de Ciências Econômicas](https://www.cienciaseconomicas.unimontes.br) em WordPress, além de apoiar rotinas administrativas e a comunicação institucional do departamento.
 
-<p align="center">
-<a href="https://www.linkedin.com/in/victor-seixas-alves" target="_blank">LinkedIn</a> •
-<a href="mailto:vseixasalves@gmail.com">E-mail</a>
-</p>
+---
+
+## 🎓 Formação e idiomas
+
+- Bacharelado em Sistemas de Informação, Unimontes (2023 – 2027)
+- Inglês avançado · Espanhol básico
+
+---
+
+## 🎬 Além do código
+
+Também edito vídeos e produzo conteúdo para redes sociais. Isso me ajuda a pensar em ritmo, hierarquia visual e experiência de quem usa o que eu construo.
+
+---
+
+📫 **Vamos conversar?** vseixasalves@gmail.com
